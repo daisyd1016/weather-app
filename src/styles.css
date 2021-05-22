@@ -1,0 +1,22 @@
+body {
+  background-image: url("src/images/sky.jpg");
+}
+
+h1,
+h2,
+h4 {
+  font-family: "Spartan", sans-serif;
+}
+
+li {
+  margin: 20px 0;
+}
+
+.list-group {
+  text-align: center;
+  font-family: "Spartan", sans-serif;
+  list-style-type: none;
+}
+.column {
+  column-count: 2;
+}
